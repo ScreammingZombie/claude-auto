@@ -1,0 +1,6 @@
+{
+  "name": "Claude AutoRun",
+  "description": "Automatización programada en Android para activar Wi-Fi, abrir Claude AI en el navegador, reanudar una conversación y detenerse al alcanzar el límite de sesión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

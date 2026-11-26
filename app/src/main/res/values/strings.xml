@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claude AutoRun</string>
+    <string name="accessibility_service_label">Claude AutoRun · Automatización</string>
+    <string name="accessibility_service_description">Permite a Claude AutoRun activar/desactivar Wi-Fi desde Ajustes rápidos, localizar tu conversación en Claude AI en el navegador predeterminado, enviar la instrucción de reanudación configurada y detectar el mensaje de límite de sesión. Solo actúa durante una ejecución activa. No recopila datos ni contraseñas.</string>
+
+    <string name="notification_channel_service_name">Automatización en curso</string>
+    <string name="notification_channel_service_desc">Muestra el estado actual mientras Claude AutoRun ejecuta la automatización programada.</string>
+    <string name="notification_channel_alerts_name">Resultados y avisos</string>
+    <string name="notification_channel_alerts_desc">Notifica cuando se detecta el límite de sesión, finaliza la ejecución o se requiere acción manual.</string>
+
+    <string name="nav_control">Control</string>
+    <string name="nav_history">Historial</string>
+    <string name="nav_system">Sistema</string>
+
+    <string name="btn_save_schedule">GUARDAR PROGRAMACIÓN</string>
+    <string name="btn_run_now">EJECUTAR AHORA</string>
+    <string name="btn_stop">DETENER</string>
+    <string name="btn_cancel_schedule">CANCELAR PROGRAMACIÓN</string>
+    <string name="btn_clear_history">BORRAR HISTORIAL</string>
+    <string name="btn_clear_log">Limpiar registro</string>
+    <string name="btn_stop_notification">Detener</string>
+
+    <string name="default_resume_prompt">Continúa la tarea que quedó pausada exactamente desde donde se interrumpió. Sigue trabajando de manera autónoma y utiliza el tiempo disponible de esta sesión hasta que aparezca el mensaje que indica que alcanzaste el límite de uso o de sesión. No abandones la tarea antes de ese momento. Si necesitas que te proporcione algo para continuar, indícalo claramente.</string>
+</resources>
